@@ -27,8 +27,8 @@ xcuserdata
 *.hmap
 *.ipa
 
-# gif files from froot folder
-/*.gif
+# gif files
+*.gif
 
 ## Dependency Managers
 Pods/
