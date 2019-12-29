@@ -6,9 +6,9 @@ Emitter UI Components is an iOS project written in Swift which provides a small 
 * `EmitterView`: a sublcass of `UIView` which layerClass is `EmitterLayer` and implements the protocol `EmitterUIProtocol`
 * `EmitterTextField`: a sublcass of `UITextField` which layerClass is `EmitterLayer` and implements the protocol `EmitterUIProtocol`
 * `EmitterButton`: a sublcass of `UIButton` which layerClass is `EmitterLayer` and implements the protocol `EmitterUIProtocol`
-* `EmitterTabBar_experimental`: (**Eperimental**) is a revisited sublcass of `UITabBar`
-* `EmitterTabBarItem_experimental`: (**Eperimental**) is a revisited sublcass of `UITabBarItem` and implements the protocol `EmitterUIProtocol`
-* `EmitterSlider_experimental`: (**Eperimental**) is a revisited sublcass of `UITabBar` and implements the protocol `EmitterUIProtocol`
+* `EmitterTabBar_experimental`: (**Experimental**) is a revisited sublcass of `UITabBar`
+* `EmitterTabBarItem_experimental`: (**Experimental**) is a revisited sublcass of `UITabBarItem` and implements the protocol `EmitterUIProtocol`
+* `EmitterSlider_experimental`: (**Experimental**) is a revisited sublcass of `UITabBar` and implements the protocol `EmitterUIProtocol`
 
 The `EmitterLayer` layer can be applied to any UIView-based component.
 
