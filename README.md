@@ -3,12 +3,12 @@ Emitter UI Components
 
 Emitter UI Components is an iOS project written in Swift which provides a small set of common UI components customised with the UIKit provided particle emitter layer by using the custom emitter layer `EmitterLayer`. Such custom layer is a subclass of `CAEmitterLayer` and is used in the following custom UI components:
 
-* `EmitterView`: a sublcass of `UIView` which layerClass is `EmitterLayer` and implements the protocol `EmitterUIProtocol`
-* `EmitterTextField`: a sublcass of `UITextField` which layerClass is `EmitterLayer` and implements the protocol `EmitterUIProtocol`
-* `EmitterButton`: a sublcass of `UIButton` which layerClass is `EmitterLayer` and implements the protocol `EmitterUIProtocol`
-* `EmitterTabBar_experimental`: (**Experimental**) is a revisited sublcass of `UITabBar`
-* `EmitterTabBarItem_experimental`: (**Experimental**) is a revisited sublcass of `UITabBarItem` and implements the protocol `EmitterUIProtocol`
-* `EmitterSlider_experimental`: (**Experimental**) is a revisited sublcass of `UITabBar` and implements the protocol `EmitterUIProtocol`
+* `EmitterView`: a subclass of `UIView` which layerClass is `EmitterLayer` and implements the protocol `EmitterUIProtocol`
+* `EmitterTextField`: a subclass of `UITextField` which layerClass is `EmitterLayer` and implements the protocol `EmitterUIProtocol`
+* `EmitterButton`: a subclass of `UIButton` which layerClass is `EmitterLayer` and implements the protocol `EmitterUIProtocol`
+* `EmitterTabBar_experimental`: (**Experimental**) is a revisited subclass of `UITabBar`
+* `EmitterTabBarItem_experimental`: (**Experimental**) is a revisited subclass of `UITabBarItem` and implements the protocol `EmitterUIProtocol`
+* `EmitterSlider_experimental`: (**Experimental**) is a revisited subclass of `UITabBar` and implements the protocol `EmitterUIProtocol`
 
 The `EmitterLayer` layer can be applied to any UIView-based component.
 
