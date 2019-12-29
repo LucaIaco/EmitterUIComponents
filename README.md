@@ -43,3 +43,7 @@ func setupTextField(){
     self.myTextfield.animateParticles = true
 }
 ```
+
+## Demo:
+
+![](demo_v1.gif)
