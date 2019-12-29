@@ -27,6 +27,9 @@ xcuserdata
 *.hmap
 *.ipa
 
+# gif files from froot folder
+/*.gif
+
 ## Dependency Managers
 Pods/
 Carthage/Build
